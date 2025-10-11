@@ -34,7 +34,7 @@
 
 ### 📊 GitHub Stats
 ![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson-zack&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-zack&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-zack&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 
 ---
 
