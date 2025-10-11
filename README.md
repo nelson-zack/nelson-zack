@@ -29,7 +29,7 @@
 ### 🚀 Live Projects  
 
 [![Job Radar](https://img.shields.io/badge/Job_Radar-LIVE-success?style=for-the-badge)](https://jobradar.zacknelson.dev)  
-[![Job Log](https://img.shields.io/badge/Job_Log-LIVE-success?style=for-the-badge)](https://joblog-app.vercel.app)  
+[![Job Log](https://img.shields.io/badge/Job_Log-LIVE-success?style=for-the-badge)](https://joblog.zacknelson.dev/)  
 [![Commit Companion](https://img.shields.io/badge/Commit_Companion-PyPI-success?style=for-the-badge)](https://pypi.org/project/commit-companion/)
 
 ---
