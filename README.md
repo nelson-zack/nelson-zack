@@ -2,7 +2,7 @@
 
 🎯 I build practical full-stack tools that solve real user problems.  
 🚀 Currently: building [Job Radar](https://jobradar.zacknelson.dev) — a full-stack job aggregator with analytics.  
-💼 Recent projects: [Job Log](https://joblog-app.vercel.app) • [Commit Companion](https://pypi.org/project/commit-companion/)  
+💼 Recent projects: [Job Log](https://joblog.zacknelson.dev/) • [Commit Companion](https://pypi.org/project/commit-companion/)  
 ⚙️ Stack: React • FastAPI • PostgreSQL • Tailwind CSS • Python • TypeScript • Docker  
 
 ---
